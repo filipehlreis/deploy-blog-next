@@ -1,0 +1,18 @@
+[build]
+  command   = "npm run build"
+  functions = "out_functions"
+  publish   = "out_publish"
+
+[build.environment]
+NETLIFY_NEXT_PLUGIN_SKIP = "false"
+NEXT_USE_NETLIFY_EDGE = "true"
+NEXT_VERSION = "12.2.5"
+NODE_VERSION = "16.15.1"
+NPM_VERSION = "8.11.0"
+YARN_VERSION = "1.22.19"
+NEXT_PRIVATE_TARGET = "server"
+
+
+[[plugins]]
+package = "@netlify/plugin-nextjs"
+
