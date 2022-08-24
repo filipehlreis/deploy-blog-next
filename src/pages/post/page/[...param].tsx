@@ -59,6 +59,6 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
 
   return {
     props: { posts, pagination, category },
-    revalidate: 600,
+    revalidate: 5,
   };
 };
