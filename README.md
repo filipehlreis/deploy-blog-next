@@ -1,3 +1,28 @@
+# Informações
+
+Este projeto foi desenvolvido acompanhando o Curso de JavaScript e TypeScript do básico ao avançado 2022 - Luiz Otavio Miranda, cujo repositorio do curso pode ser conferido em: https://github.com/filipehlreis/curso_javascript_typescript .
+
+Busquei ter o primeiro contato com o NextJs e com o Strapi, entender como que funciona ambas ferramentas, e pelas aulas do curso terem sido gravadas em 2020, muita coisa mudou no Strapi, entao busquei adaptar o codigo de tal forma que obtivesse o mesmo resultado.
+
+Neste projeto foi possivel entender um pouco sobre SSG e SSR, na qual será ainda necessario aprimorar um pouco mais os conhecimentos antes de desenvolver um projeto pessoal com um pouco mais de tranquilidade.
+
+## Ferramentas utilizadas
+Para esse projeto foi utilizado PostgreSQL, Docker, Strapi, Cloudinary, NextJS, Typescript, Heroku, Netlify, Github, Eslint, Prettier, Styled-Components, Disqus, Webhooks e Google Cloud Platform.
+
+## Repositorios de interesse
+### Backend: 
+- Desenvolvimento local: https://github.com/filipehlreis/blog-strapi
+- Deploy: https://github.com/filipehlreis/deploy-blog-strapi
+
+### Frontend:
+- Desenvolvimento local: https://github.com/filipehlreis/blog-next
+- Deploy: https://github.com/filipehlreis/deploy-blog-next
+
+### Curso:
+- https://github.com/filipehlreis/curso_javascript_typescript
+
+<br><br><br>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
