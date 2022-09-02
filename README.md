@@ -21,6 +21,11 @@ Para esse projeto foi utilizado PostgreSQL, Docker, Strapi, Cloudinary, NextJS, 
 ### Curso:
 - https://github.com/filipehlreis/curso_javascript_typescript
 
+## Video demonstrativo
+Por motivos de que o periodo de testes do Google Cloud Platform acabou, tem o video abaixo para poder conferir o funcionamento completo do blog :D
+<br>
+- Youtube: https://youtu.be/-Af0xTdsWno
+<video src='https://youtu.be/-Af0xTdsWno' width=180 /> </video>
 <br><br><br>
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
